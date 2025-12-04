@@ -4,10 +4,6 @@
 
 A passionate Data Analyst, Business Intelligence Analyst, and Data Engineer focused on building automated data pipelines, dashboards, and end-to-end analytics solutions.
 
-🔧 Tech Stack & Tools
-
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" /> </p>
-
 🔭 Current Project
 
 I’m working on:
